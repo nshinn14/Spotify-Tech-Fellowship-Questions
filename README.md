@@ -29,3 +29,9 @@ Example: for amount=4 (4¢) and denominations=[1,2,3] (1¢, 2¢ and 3¢), your p
 1¢, 1¢, 2¢
 1¢, 3¢
 2¢, 2¢
+
+## Final Comments
+
+If you have any questions about my submission feel free to reach out at:
+
+nshinn09@gmail.com
